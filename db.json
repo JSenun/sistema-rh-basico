@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "username": "joao21",
+            "password": "123456",
+            "credencial": "auxiliar",
+            "admin": false
+        },
+        {
+            "username": "admin",
+            "password": "admin",
+            "credencial": "administrador",
+            "admin": true
+        }
+    ],
+    "colaboradores_ativos": [
+        {   
+            "num_registro": 1,
+            "nome": "João Victor",
+            "idade": 20,
+            "data_admissao": "12/04/2023",
+            "setor": "BI",
+            "salario": 4500,
+            "cargo": "Analista Júnior",
+            "status": "Ativo"
+        }
+    ],
+    "colaboradores_inativos": []
+}
