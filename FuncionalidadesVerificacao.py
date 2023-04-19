@@ -26,8 +26,10 @@ def verifica_credencial(nome_usuario,bd_usuarios):
             break
     
     if dados_usuario['credencial'] == 'administrador':
-        print("O usuario é administrador")
+        pass
     elif dados_usuario['credencial'] == 'gerente':
-        print("O usuario é gerente")
+        pass
     else:
-        print("O usuario é assistente")
+        pass
+
+
