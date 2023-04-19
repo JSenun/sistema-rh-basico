@@ -25,5 +25,7 @@
             "status": "Ativo"
         }
     ],
-    "colaboradores_inativos": []
+    "colaboradores_inativos": [],
+    "log_acessos": [],
+    "log_modificacoes": []
 }
